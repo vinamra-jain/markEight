@@ -34,7 +34,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>iiinside outtt!!!</h1>
+      <h1>E-mo-G Interpreter</h1>
       <input onChange={onChangeHandler}></input>
       <div className="meaning">{userInputMeaning}</div>
       {keysDataBase.map(function (item) {

@@ -23,3 +23,8 @@ input {
   margin: 1.2rem;
   font-weight: bold;
 }
+
+.databaseEmojiContainer {
+  max-width: 60%;
+  margin: auto;
+}
